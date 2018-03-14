@@ -1,0 +1,9 @@
+<html>
+<body>
+<h1>  Testando Wamp Server 64 BITS </h1>
+
+</body>
+
+
+
+</html>
