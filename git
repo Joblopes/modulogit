@@ -1,0 +1,30 @@
+[1mdiff --git a/modulogit/READEME.md b/modulogit/READEME.md[m
+[1mindex a3d8d3f..f82a3ef 100644[m
+[1m--- a/modulogit/READEME.md[m
+[1m+++ b/modulogit/READEME.md[m
+[36m@@ -1,5 +1,5 @@[m
+[31m-Meu segundo sistema no GIT[m
+[32m+[m[32meste eh meu segundo sistema no branch teste2[m
+ [m
+[31m-alterar o que quiser[m
+[32m+[m[32malterar sempre o que quiser[m
+ [m
+[31m-alguma nova linha legal[m
+\ No newline at end of file[m
+[32m+[m[32malguma nova muito linha legal[m
+\ No newline at end of file[m
+[1mdiff --git a/modulogit/style.css b/modulogit/style.css[m
+[1mindex 735a8ca..971f2cf 100644[m
+[1m--- a/modulogit/style.css[m
+[1m+++ b/modulogit/style.css[m
+[36m@@ -1,4 +1,5 @@[m
+[31m-Meu primeiro sistema no GIT[m
+[32m+[m[32mMeu segundo sistema no GIT / branch teste2[m
+ [m
+[31m-alterar o que quiser[m
+[31m-nova linha adicionada[m
+\ No newline at end of file[m
+[32m+[m[32mnovas alteracoes[m
+[32m+[m
+[32m+[m[32multima linha adicionada[m
+\ No newline at end of file[m
